@@ -58,7 +58,8 @@ Before you begin, ensure you have the following installed on your machine:
 ## Seeding the Database
 
 To seed the database with sample data, run the following command:
-    ```bash
+
+   ```bash
     cd backend
     npm run seed
-    ```
+   ```
